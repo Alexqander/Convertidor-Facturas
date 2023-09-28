@@ -1,0 +1,162 @@
+[
+  {
+    ClaveProdServ: '41112200',
+    NoIdentificacion: 'W10844633',
+    Cantidad: '8.000000',
+    ClaveUnidad: 'H87',
+    Unidad: 'PZA',
+    Descripcion: 'DEFROST 8 HRS SIN CABLE WP ORIGINAL',
+    ValorUnitario: '107.687500',
+    Importe: '861.500000'
+  },
+  {
+    ClaveProdServ: '23151601',
+    NoIdentificacion: '694089',
+    Cantidad: '2.000000',
+    ClaveUnidad: 'H87',
+    Unidad: 'PZA',
+    Descripcion: 'TURBINA SEC. WP GDE',
+    ValorUnitario: '271.331000',
+    Importe: '542.662000'
+  },
+  {
+    ClaveProdServ: '23242114',
+    NoIdentificacion: 'WW01F01139',
+    Cantidad: '1.000000',
+    ClaveUnidad: 'H87',
+    Unidad: 'PZA',
+    Descripcion: 'TRANSMISION AQUA SAVER SOPORTE NORMAL 233D2720G001',
+    ValorUnitario: '1485.377600',
+    Importe: '1485.377600'
+  },
+  {
+    ClaveProdServ: '42222009',
+    NoIdentificacion: 'W10538766',
+    Cantidad: '1.000000',
+    ClaveUnidad: 'H87',
+    Unidad: 'PZA',
+    Descripcion: 'ACTUADOR NEGRO 4 PTS WP ORIGINAL',
+    ValorUnitario: '165.558400',
+    Importe: '165.558400'
+  },
+  {
+    ClaveProdServ: '23242114',
+    NoIdentificacion: 'WW01F01139',
+    Cantidad: '1.000000',
+    ClaveUnidad: 'H87',
+    Unidad: 'PZA',
+    Descripcion: 'TRANSMISION AQUA SAVER SOPORTE NORMAL 233D2720G001',
+    ValorUnitario: '1485.377600',
+    Importe: '1485.377600'
+  },
+  {
+    ClaveProdServ: '42222009',
+    NoIdentificacion: 'W10538766',
+    Cantidad: '1.000000',
+    ClaveUnidad: 'H87',
+    Unidad: 'PZA',
+    Descripcion: 'ACTUADOR NEGRO 4 PTS WP ORIGINAL',
+    ValorUnitario: '165.558400',
+    Importe: '165.558400'
+  },
+  {
+    ClaveProdServ: '42222009',
+    NoIdentificacion: 'W10538766',
+    Cantidad: '8.000000',
+    ClaveUnidad: 'H87',
+    Unidad: 'PZA',
+    Descripcion: 'ACTUADOR NEGRO 4 PTS WP ORIGINAL',
+    ValorUnitario: '165.558400',
+    Importe: '1324.467200'
+  },
+  {
+    ClaveProdServ: '24101613',
+    NoIdentificacion: 'WW01F00357',
+    Cantidad: '4.000000',
+    ClaveUnidad: 'H87',
+    Unidad: 'PZA',
+    Descripcion: 'POLEA MOTOR AMAZ. C/MAGNETO 189D2645G002L',
+    ValorUnitario: '93.046500',
+    Importe: '372.186000'
+  },
+  {
+    ClaveProdServ: '52141600',
+    NoIdentificacion: '389231',
+    Cantidad: '4.000000',
+    ClaveUnidad: 'H87',
+    Unidad: 'PZA',
+    Descripcion: 'FLECHA LAVADO WP AMERICANA SOLA',
+    ValorUnitario: '396.726000',
+    Importe: '1586.904000'
+  },
+  {
+    ClaveProdServ: '52141600',
+    NoIdentificacion: '389231',
+    Cantidad: '4.000000',
+    ClaveUnidad: 'H87',
+    Unidad: 'PZA',
+    Descripcion: 'FLECHA LAVADO WP AMERICANA SOLA',
+    ValorUnitario: '396.726000',
+    Importe: '1586.904000'
+  },
+  {
+    ClaveProdServ: '23242114',
+    NoIdentificacion: 'WW02F00004',
+    Cantidad: '1.000000',
+    ClaveUnidad: 'H87',
+    Unidad: 'PZA',
+    Descripcion: 'TRANSMISION CENTRO DE LAVADO BASE NORMAL F. LARGA 189D5234G003',
+    ValorUnitario: '1325.896000',
+    Importe: '1325.896000'
+  },
+  {
+    ClaveProdServ: '52141600',
+    NoIdentificacion: '389231',
+    Cantidad: '1.000000',
+    ClaveUnidad: 'H87',
+    Unidad: 'PZA',
+    Descripcion: 'FLECHA LAVADO WP AMERICANA SOLA',
+    ValorUnitario: '396.726000',
+    Importe: '396.726000'
+  },
+  {
+    ClaveProdServ: '23242114',
+    NoIdentificacion: 'WW02F00004',
+    Cantidad: '1.000000',
+    ClaveUnidad: 'H87',
+    Unidad: 'PZA',
+    Descripcion: 'TRANSMISION CENTRO DE LAVADO BASE NORMAL F. LARGA 189D5234G003',
+    ValorUnitario: '1325.896000',
+    Importe: '1325.896000'
+  },
+  {
+    ClaveProdServ: '52141600',
+    NoIdentificacion: '389231',
+    Cantidad: '1.000000',
+    ClaveUnidad: 'H87',
+    Unidad: 'PZA',
+    Descripcion: 'FLECHA LAVADO WP AMERICANA SOLA',
+    ValorUnitario: '396.726000',
+    Importe: '396.726000'
+  },
+  {
+    ClaveProdServ: '40101705',
+    NoIdentificacion: 'ITUCA031',
+    Cantidad: '30.000000',
+    ClaveUnidad: 'H87',
+    Unidad: 'PZA',
+    Descripcion: 'TUBO CAPILAR 0.031 3.05 MTS ICE',
+    ValorUnitario: '38.800000',
+    Importe: '1164.000000'
+  },
+  {
+    ClaveProdServ: '31161500',
+    NoIdentificacion: 'W10001130',
+    Cantidad: '10.000000',
+    ClaveUnidad: 'H87',
+    Unidad: 'PZA',
+    Descripcion: 'PATA NIVELADORA WP',
+    ValorUnitario: '39.939500',
+    Importe: '399.395000'
+  }
+]
